@@ -24,13 +24,13 @@ Project name : Phone Book on CURD Operations (Work from home)<br/>
 
 ***Projects***<br/>
 **Minor II:**<br/>
->***Project Title: Automated Emotion Sensing Music Player System***<br/>
+>Project Title: Automated Emotion Sensing Music Player System<br/>
 Duration: Jan-May’18<br/>
 Mentor: 	Mr. Harvinder Singh, Assistant Professor, Department of Informatics, CIT, UPES<br/>
 Technologies:    Python, SVM<br/>
 
 **Minor I:**<br/>
->***Project Title:	Text Plagiarism Detector Using String Matching Algorithm.***<br/>
+>Project Title:	Text Plagiarism Detector Using String Matching Algorithm.<br/>
 Duration: Aug-Dec’17<br/>
 Mentor:	Ms Richa Choudhary, Assistant Professor, Department of Informatics, CIT, UPES<br/>
 Technologies:    C language<br/>
